@@ -1,0 +1,27 @@
+{
+  "name": "v13uptimev3",
+  "version": "1.0.0",
+  "description": "muhammet ali v13 uptime Botu",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "author": "Muhammet ali",
+  "license": "ISC",
+  "homepage": "https://github.com/muhammet /v13uptimev2",
+  
+	"dependencies": {
+		"@discordjs/rest": "^0.3.0",
+		"discord-api-types": "^0.31.1",
+		"discord.js": "^13.6.0",
+		"mongoose": "^6.3.0",
+		"node-fetch": "2"
+	},
+
+
+   "engines": {
+    "node": "16.x",
+     "npm":"7.x"
+  }
+}
+
